@@ -50,7 +50,12 @@ namespace ValueAndReferenceTypes
             //karşılığı sayılar 2'nin karşılığına eşitleniyor. dolayısı ile değişiklik daha sonrada yapılsa 
             // sayılar1 artık sayılar2' nin karşılığını tuttuğundan yapılan değişiklik sayılar 1'ide etkiliyor. 
 
-            
+            int yil;
+            System.Console.Write("Hangi Yıldayız : ");
+            yil = System.Console.Read();
+            System.Console.WriteLine();
+            System.Console.Write("Girdiğiniz Yıl :");
+            System.Console.WriteLine(yil);
 
 
 
