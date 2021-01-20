@@ -15,7 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Math", "Math\Math.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes\ValueAndReferenceTypes.csproj", "{7F813B89-ACE0-4AF9-942D-F158A4D37573}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{067C6AB6-7088-4660-BB88-9B3E3EBCBCFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMethodDemo", "ClassMethodDemo\ClassMethodDemo.csproj", "{067C6AB6-7088-4660-BB88-9B3E3EBCBCFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{19E8693C-816D-4B03-915D-B480AA4F4C1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{1324E102-FD56-4BED-AE05-0B8D8449E1A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{3E8F384F-0DD3-4DBC-BB82-B30A68487FE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{067C6AB6-7088-4660-BB88-9B3E3EBCBCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{067C6AB6-7088-4660-BB88-9B3E3EBCBCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{067C6AB6-7088-4660-BB88-9B3E3EBCBCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19E8693C-816D-4B03-915D-B480AA4F4C1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E8693C-816D-4B03-915D-B480AA4F4C1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E8693C-816D-4B03-915D-B480AA4F4C1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E8693C-816D-4B03-915D-B480AA4F4C1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1324E102-FD56-4BED-AE05-0B8D8449E1A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1324E102-FD56-4BED-AE05-0B8D8449E1A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1324E102-FD56-4BED-AE05-0B8D8449E1A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1324E102-FD56-4BED-AE05-0B8D8449E1A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8F384F-0DD3-4DBC-BB82-B30A68487FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8F384F-0DD3-4DBC-BB82-B30A68487FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8F384F-0DD3-4DBC-BB82-B30A68487FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8F384F-0DD3-4DBC-BB82-B30A68487FE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
